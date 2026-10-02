@@ -1,32 +1,32 @@
 {
-  "version": "0.3.0",
-  "build": "1a820f986e9212a302f6",
+  "version": "0.4.0",
+  "build": "c3edea0dc5a0764b09d2",
   "environment": "production",
   "base": "/sonne-finance/",
   "resources": [
     {
-      "path": "assets/Backups-CG8L3F8S.js",
-      "sha256": "e27e13b95ae628efcdf34f45961333e1f7b12f0c3b40e888055b1cdb3678008a"
+      "path": "assets/Backups-5a2FLYmk.js",
+      "sha256": "12e09e1e727a1e8f92c67bae6bc309bad49d0975432ce760950ba85bee6ceb0f"
     },
     {
-      "path": "assets/Historial-D4RnFdAA.js",
-      "sha256": "9ce3a092ce52844a7c9c9870d6de056e17080ff6bddfda99856a1a4db4565cf2"
+      "path": "assets/Historial-Dtz-JUTs.js",
+      "sha256": "5acf15130d711e118f05cb5473243c6efaa47ba1146f9714a7be1e426273c1bb"
     },
     {
-      "path": "assets/Plan-BM_jvVLu.js",
-      "sha256": "c5356ce879bff24749292af1a60f7b31ad747768b530423c5832d2b6c211dd46"
+      "path": "assets/Plan-CgQ0y7VY.js",
+      "sha256": "2d93c3adebd3de21635d25f50bf824f44d8762683523bc2693ff8a536f3d09ec"
     },
     {
       "path": "assets/Simulador-CzM6mLRf.js",
       "sha256": "64a8005f69795147ee917f822c497a33600dbc434090abc295e3df48fe85777d"
     },
     {
-      "path": "assets/index-BmSa3AD6.js",
-      "sha256": "89e009fe213b73e09b8bc57565ce63b1d1d08dce3a6521606f892764452918fb"
+      "path": "assets/index-BdDRz-gP.js",
+      "sha256": "0db347d0fe2cb7bbabbe247086ff453df96734b055149b859c2d7cd6cbd8a6cb"
     },
     {
-      "path": "assets/index-CFHFY8J9.css",
-      "sha256": "eb459bd79070d30858e842922818e166011c592c9a2c704004923757e60e5fc6"
+      "path": "assets/index-DRvbQA45.css",
+      "sha256": "87906fcae36791d43b47c5e015d1420cf7ad4bfeb08319050570a6b8b4f402bc"
     },
     {
       "path": "assets/shared-BSvBsTId.js",
@@ -54,7 +54,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "2f70e0891d74020ddd61261df806d630ccfa2f04796fe0c60edd68234fb55a1a"
+      "sha256": "2878ce5e5104048f41b8f847828625f2529813a877960250cf90ec14581291b1"
     },
     {
       "path": "manifest.webmanifest",
