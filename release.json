@@ -1,28 +1,28 @@
 {
-  "version": "0.4.0",
-  "build": "c3edea0dc5a0764b09d2",
+  "version": "0.4.1",
+  "build": "e5dca6026f60c2655c09",
   "environment": "production",
   "base": "/sonne-finance/",
   "resources": [
     {
-      "path": "assets/Backups-5a2FLYmk.js",
-      "sha256": "12e09e1e727a1e8f92c67bae6bc309bad49d0975432ce760950ba85bee6ceb0f"
+      "path": "assets/Backups-CWYBZDH2.js",
+      "sha256": "7161cc361653d7a082761082bebb57f834ceaa5a0f7de796e03b0b59c55b2d5e"
     },
     {
-      "path": "assets/Historial-Dtz-JUTs.js",
-      "sha256": "5acf15130d711e118f05cb5473243c6efaa47ba1146f9714a7be1e426273c1bb"
+      "path": "assets/Historial-bGbhri-d.js",
+      "sha256": "d807f8b25b28d4ec459286d24ed2dec512cd4d5da7792d72ac391a21917fccd4"
     },
     {
-      "path": "assets/Plan-CgQ0y7VY.js",
-      "sha256": "2d93c3adebd3de21635d25f50bf824f44d8762683523bc2693ff8a536f3d09ec"
+      "path": "assets/Plan-C9Blg4iK.js",
+      "sha256": "8c89d25d6c9b01309b192f9c9501802ac8cafc02276c17b78faa9e351315e0c3"
     },
     {
       "path": "assets/Simulador-CzM6mLRf.js",
       "sha256": "64a8005f69795147ee917f822c497a33600dbc434090abc295e3df48fe85777d"
     },
     {
-      "path": "assets/index-BdDRz-gP.js",
-      "sha256": "0db347d0fe2cb7bbabbe247086ff453df96734b055149b859c2d7cd6cbd8a6cb"
+      "path": "assets/index-D0bto7yz.js",
+      "sha256": "fba11a65beb2cc1bc2afa1ebca962c915062434f8d4e0de72474284f85069521"
     },
     {
       "path": "assets/index-DRvbQA45.css",
@@ -54,7 +54,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "2878ce5e5104048f41b8f847828625f2529813a877960250cf90ec14581291b1"
+      "sha256": "42eafdc70eddd4ec80199e3a6839d75ac327d416f95ade5bf1bce248e3c318a2"
     },
     {
       "path": "manifest.webmanifest",
